@@ -118,8 +118,8 @@ function App({ login }) {
   }
 
   return (
-    <div>
-      <h1>There is no data!</h1>
+    <div className="App">
+      <h1>Loading...</h1>
     </div>
   )
 }
